@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  session: MyString
+  event: MyString
+  time: 2014-05-14
+  parameters: 
+
+two:
+  session: MyString
+  event: MyString
+  time: 2014-05-14
+  parameters: 
